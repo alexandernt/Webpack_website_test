@@ -1,0 +1,48 @@
+.services {
+  background-color: #0d0d0d;
+  width: 100%;
+  height: 100vh;
+}
+.titulo-servicio {
+  text-align: center;
+  padding-top: 40px;
+  margin: 0px auto 0px auto;
+}
+.titulo-servicio--original {
+  font-size: 30px;
+  font-weight: 350;
+  color: #eca54d;
+  margin-top: -46px;
+}
+.titulo-servicio--background {
+  letter-spacing: 8px;
+  font-size: 50px;
+  color: rgba(78, 78, 78, 0.15);
+}
+
+.box1 {
+  position: relative;
+  color: rgb(238, 236, 235);
+  padding-top: 25px;
+}
+.secc {
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(78, 78, 78, 0.15);
+  color: rgb(163, 163, 163);
+  height: 200px;
+  border-radius: 30px;
+}
+.secc h4 {
+  padding-top: 30px;
+  font-size: 22px;
+  color: #eca54d;
+  text-align: center;
+  margin: 25px 0;
+}
+.secc p {
+  font-size: 17px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  margin: 20px 15px;
+}
